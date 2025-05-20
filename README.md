@@ -1,4 +1,4 @@
-# 🌿 Nature First – Environmental Awareness Web Page 🌳
+# 🌿 Nature First – Environmental Awareness Web Page 
 
 Welcome to **Nature First**, a beautifully crafted single-page website built with pure HTML and CSS. This project is centered around **raising awareness about nature, trees, and environmental preservation**. Every section—from typography to imagery—has been designed to reflect the calming and essential presence of nature in our lives.
 
@@ -50,14 +50,9 @@ This is a simple HTML/CSS project. All files are self-contained, making it easy 
 
 📖 Fully readable and editable code for beginners learning how to structure meaningful web content.
 
----
-
-📸  Preview
-
-![Alt text](images/Preview.png)
-
 
 ---
+
 💚 Contribute
 Want to help make this more interactive or add your favorite environmental quote? Contributions are welcome!
 
