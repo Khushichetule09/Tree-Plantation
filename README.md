@@ -33,12 +33,7 @@ This is a simple HTML/CSS project. All files are self-contained, making it easy 
 - 📦 **Self-Contained Page**: Everything you need is in a single file – perfect for demonstrations or offline use.
 - 🌍 **Eco-Friendly Messaging**: The tree image supports the central theme of nature preservation.
 
-### Embedded Section Code:
-
-```html
-<section class="gallery">
-  <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD..." />
-</section>
+---
 
 
 ✨ What Makes This Project Special?
